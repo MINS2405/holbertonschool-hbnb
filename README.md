@@ -1,4 +1,4 @@
-![Holberton School Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/Holberton_School_logo.png)
+ ![HBnB Logo](https://github.com/bdbaraban/holbertonbnb/blob/master/assets/hbnb-logo.png?raw=true)
 
 # 🏠 **HBnB Project**
 
