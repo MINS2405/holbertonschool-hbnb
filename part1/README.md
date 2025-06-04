@@ -34,3 +34,45 @@ The **Facade Pattern** serves as a unified interface between the presentation la
 ### Example (in text format):
 
 ![My UML Diagram](<Untitled (1).png>)
+
+# Sequence Diagrams for API Calls
+
+## 1. User Registration
+
+![User Registration Sequence Diagram](user_registration.png)
+<!-- Or insert your Mermaid code here -->
+
+**Description:**  
+This sequence diagram shows how a user registers for a new account. The user sends their registration information to the API, which passes it to the business logic for validation and creation. The business logic saves the new user in the database, and the result is returned to the user.
+
+---
+
+## 2. Place Creation
+
+![Place Creation Sequence Diagram](place_creation.png)
+<!-- Or insert your Mermaid code here -->
+
+**Description:**  
+This sequence diagram illustrates the process when a user creates a new place listing. The user submits the place details to the API, which forwards the request to the business logic layer. The business logic validates the data and saves the new place to the database. The outcome is sent back to the user.
+
+---
+
+## 3. Review Submission
+
+![Review Submission Sequence Diagram](review_submission.png)
+<!-- Or insert your Mermaid code here -->
+
+**Description:**  
+This diagram represents the steps involved when a user submits a review for a place. The user sends the review data to the API, which passes it to the business logic for validation and processing. The review is then stored in the database, and a response is returned to the user.
+
+---
+
+## 4. Fetching a List of Places
+
+![Fetching Places Sequence Diagram](part1/Untitled (2).png)
+<!-- Or insert your Mermaid code here -->
+
+**Description:**  
+This sequence diagram shows how a user requests a list of places based on certain criteria. The API receives the request and asks the business logic layer to retrieve the relevant places. The business logic queries the database, collects the results, and sends them back to the user through the API.
+
+---
