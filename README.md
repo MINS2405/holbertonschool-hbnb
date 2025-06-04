@@ -1,7 +1,13 @@
-![Holberton School Logo](https://raw.githubusercontent.com/holbertonschool/holbertonschool-primary/master/holberton-logo.png)
 
 <p align="center">
-  <img src="https://github.com/bdbaraban/holbertonbnb/blob/master/assets/hbnb-logo.png?raw=true" alt="HBnB Logo" width="200"/>
+  <img src="https://github.com/bdbaraban/holbertonbnb/blob/master/assets/hbnb-logo.png?raw=true" alt="HBnB Logo" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" alt="Coding with Redbull GIF" width="250"/><br>
+  <b>Holberton + Redbull = HBnB powered!<br>
+  Warning: This project was coded under the influence of way too much Redbull.<br>
+  If you spot any bugs, blame the caffeine wings! 🪽😜</b>
 </p>
 
 <h1 align="center">🏠 HBnB Project</h1>
@@ -102,6 +108,15 @@ This repository contains the architecture, technical documentation, and interact
 - GitHub: [MINS2405](https://github.com/MINS2405/holbertonschool-hbnb)
 
 ---
+## 🏆 I did HBnB all by myself!
+
+No group, no secret help—just me, my keyboard, and a lot of coffee.  
+Even Stack Overflow took a break and said, "You got this!" ☕😎
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Thank you GIF" width="300"/>
+</p>
+
 
 <p align="center">
   <b>© 2025 Holberton School – HBnB Project</b>
