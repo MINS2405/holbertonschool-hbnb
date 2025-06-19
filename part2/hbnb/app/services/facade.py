@@ -1,6 +1,5 @@
+from app.repositories.in_memory_repository import InMemoryRepository
 from app.models.place import Place
-from app.models.user import User
-from app.models.amenity import Amenity
 
 class HBnBFacade:
     def __init__(self):
@@ -68,3 +67,12 @@ class HBnBFacade:
             place.longitude = data['longitude']
         self.place_repo.update(place)
         return place
+    def get_user_by_email(self, email):
+        """
+        Loops through all users and returns the one with the matching email.
+        Returns None if no user is found.
+        """
+        for user in self.user_repo.list_all():
+            if user.email == email:
+                return user
+        return None
